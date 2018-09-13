@@ -8,6 +8,7 @@ class Todo < Formula
   bottle :unneeded
 
   def install
+    mv "todo-mac-0.0.0", "todo"
     bin.install "todo"
   end
 end
