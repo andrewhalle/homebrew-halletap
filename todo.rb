@@ -1,9 +1,9 @@
 class Todo < Formula
   desc "decide what to do next using your favorite scheduling algorithm"
   homepage "https://github.com/andrewhalle/todo"
-  url "https://s3-us-west-1.amazonaws.com/halletap-archive/todo/v0.0/todo-mac-0.0.2.tar.gz"
-  sha256 "933215e37f236a8895675e559b6f60710fb5449f0174b241e12e9e6c165c1558"
-  version "0.0.2"
+  url "https://s3-us-west-1.amazonaws.com/halletap-archive/todo/v0.1/todo-mac-0.1.0.tar.gz"
+  sha256 "69a1c770365cf0f7796319e5cac0d606e8d0841ad63344861a2f8d8e78b135e7"
+  version "0.1.0"
 
   bottle :unneeded
 
